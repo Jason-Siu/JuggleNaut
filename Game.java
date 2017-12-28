@@ -77,6 +77,7 @@ public class Game extends AppCompatActivity
         {
             mediaplayer = MediaPlayer.create(this, R.raw.ingamemusic);
             mediaplayer.start();
+            mediaplayer.setLooping(true);
         }
     }
 
