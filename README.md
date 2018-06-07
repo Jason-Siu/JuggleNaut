@@ -1,2 +1,2 @@
 # JuggleNaut
-Code for simple game I made
+Code for simple game I made. This is an android game that was meant to be played on android phones. The goal of the game is the juggle the balls for as long as possible, but also getting the maximum score. There is a main menu that has a play button, instructions activity, as well as a library that shows you all the sounds used. This game records your best score, so keep trying to beat it and compare with your friends!
